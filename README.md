@@ -16,6 +16,12 @@
 - B.S., Computer Science | AMA Computer College of Legazpi (_May 2012_)
 
 ## Work Experience
+**Founder of @ Codes Bicol IT Solutions  (_October 2011 - Present_)**
+- Founder and Owner
+- Project Team Lead
+- Full Stack
+- Web Development
+- Mobile Application
 **Instructor I @ Sorsogon State University (_October 2023 - Present_)**
 - Monitoring student progress against targets and implementing recovery plans for 
 those who need them
