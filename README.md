@@ -16,7 +16,7 @@
 - B.S., Computer Science | AMA Computer College of Legazpi (_May 2012_)
 
 ## Work Experience
-**Founder of @ Codes Bicol IT Solutions  (_October 2011 - Present_)**
+**Founder of Codes Bicol IT Solutions  (_October 2021 - Present_)**
 - Founder and Owner
 - Project Team Lead
 - Full Stack
