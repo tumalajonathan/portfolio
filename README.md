@@ -40,7 +40,7 @@ communication systems, core banking system and other proprietary apps support
 
 ## Projects
 ### DOT Region V - DBMS
-[DBMS]([https://www.mdpi.com/1424-8220/22/8/3048](https://dotbicol.com/))
+[https://dotbicol.com/](https://dotbicol.com/)
 
 Developed a web based database management system with HRIS, Tourism Statistics System, Tourism Accreditation and Regulations, Planning and Development.
 
