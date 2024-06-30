@@ -1,6 +1,10 @@
 # Jonathan G
 
-# BACKEND DEV ./ MOBILE DEV ./ DATABASE ADMINISTRATOR ./ IT SECURITY
+##  Job Roles
+- BACKEND DEVELOPER
+- MOBILE APP DEVELOPER
+- DATABASE ADMINISTRATOR
+- IT SECURITY
 
 #### Technical Skills: 
 - Flutter - Dart (mobile dev)
