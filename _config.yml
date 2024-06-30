@@ -3,5 +3,4 @@ logo: /assets/codes.PNG
 description: 10+ Years IT Experience
 #show_downloads: true
 theme: jekyll-theme-hacker
-github:
-  is_project_page: false
+is_project_page: false
