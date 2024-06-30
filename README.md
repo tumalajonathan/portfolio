@@ -1,6 +1,12 @@
 # Full Stack Developer
 
-#### Technical Skills: Flutter - Dart, Laravel - PHP, Django - Python, MySQL, MSSQL
+#### Technical Skills: 
+- Flutter - Dart
+- Laravel - PHP
+- Django - Python
+- MySQL
+- MSSQL
+- Database Administration
 
 ## Education					       		
 - M.S., Computer Science	| AMA University - Quezon City (_Ongoing_)	 			        		
