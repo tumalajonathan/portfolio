@@ -1,4 +1,4 @@
-# Data Scientist
+# Full Stack Developer
 
 #### Technical Skills: Flutter - Dart, Laravel - PHP, Django - Python, MySQL
 
