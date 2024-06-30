@@ -2,6 +2,6 @@ title: Jonathan Tumala
 logo: /assets/codes.PNG
 description: 10+ Years IT Experience
 #show_downloads: true
-theme: jekyll-hacker
+theme: jekyll-remote-hacker
 github:
   is_project_page: false
