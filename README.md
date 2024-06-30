@@ -1,12 +1,12 @@
 # Full Stack Developer
 
 #### Technical Skills: 
-- Flutter - Dart
-- Laravel - PHP
-- Django - Python
-- MySQL
-- MSSQL
-- Database Administration
+- Flutter - Dart (mobile dev)
+- Laravel - PHP (Web Backend)
+- Django - Python (Web Backend)
+- MySQL (DBMS)
+- MSSQL (DBMS)
+- Database Administration (SQL SERVER)
 
 #### Eligibility: 
 - Civil Service Passer
