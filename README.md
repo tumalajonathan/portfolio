@@ -41,7 +41,7 @@ vulnerabilities to maintain a high-security standard
 - Establish and implement an updated contingency plan for connection / 
 communication systems, core banking system and other proprietary apps support
 
-**Database Specialist I @ Camaligbank (_October 2023 - March 2019_)**
+**Database Specialist I @ Camaligbank (_October 2013 - March 2019_)**
 - Monitors performance and managing parameters of all the modules of the CBS to 
 ensure that they are working optimally to ensure fast response to front-end users
 - Maintains database by identifying and solving database requirements; supporting 
