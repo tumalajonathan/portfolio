@@ -44,3 +44,6 @@ communication systems, core banking system and other proprietary apps support
 
 Developed a web based database management system with HRIS, Tourism Statistics System, Tourism Accreditation and Regulations, Planning and Development.
 
+## Google Play Profile
+[CODES.bicol](https://play.google.com/store/apps/dev?id=8267739085809030914)
+
