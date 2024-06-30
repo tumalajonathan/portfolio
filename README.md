@@ -8,6 +8,9 @@
 - MSSQL
 - Database Administration
 
+#### Eligibility: 
+- Civil Service Passer
+
 ## Education					       		
 - M.S., Computer Science	| AMA University - Quezon City (_Ongoing_)	 			        		
 - B.S., Computer Science | AMA Computer College of Legazpi (_May 2012_)
