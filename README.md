@@ -22,7 +22,7 @@ those who need them
 - Administer assessment tests and other form of learning evaluation.
 - Handle Core Computer Science Subjects
 
-**Senior IT Security Associate @ Camaligbank (_October 2013 - October 2023_)**
+**Senior IT Security Associate @ Camaligbank (_March 2019 - October 2023_)**
 - Implemented an improved security system, increasing overall IT security.
 - Created a preventative IT maintenance plan resulting in reported IT breakdowns 
 - Successfully delivered technology project – POS System across the 
@@ -37,6 +37,17 @@ information infrastructure, including firewalls and data encryption programs
 vulnerabilities to maintain a high-security standard
 - Establish and implement an updated contingency plan for connection / 
 communication systems, core banking system and other proprietary apps support
+
+**Database Specialist I @ Camaligbank (_October 2023 - March 2019_)**
+- Monitors performance and managing parameters of all the modules of the CBS to 
+ensure that they are working optimally to ensure fast response to front-end users
+- Maintains database by identifying and solving database requirements; supporting 
+branches and CO users
+- Establishes the needs of users and monitoring user access and security to ensure that 
+only authorized users of the CBS access the system
+- Considers both back-end organization of data and front-end accessibility for end-users
+- In charge of granting and denying access to the system based on properly documented 
+requests
 
 **Assistant Instructor I @ AMA Computer College of Legazpi (_June 2012 - October 2013_)**
 - Conducted face-to-face class. 
