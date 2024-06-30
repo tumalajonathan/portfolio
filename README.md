@@ -38,12 +38,18 @@ communication systems, core banking system and other proprietary apps support
 - Prepare instructional materials. 
 - Administer assessment tests and other form of learning evaluation.
 
-## Projects
+## Projects - Web
 ### DOT Region V - DBMS
 [https://dotbicol.com/](https://dotbicol.com/)
 
 Developed a web based database management system with HRIS, Tourism Statistics System, Tourism Accreditation and Regulations, Planning and Development.
 
+### CB - POS System
+[POS](https://cbapps.camaligbank.com.ph/pos_sys/)
+
+OTC transaction for PesoNet  and SSS connected to their API
+
+## Projects - Mobile Applications
 ## Google Play Profile
 [CODES.bicol](https://play.google.com/store/apps/dev?id=8267739085809030914)
 
