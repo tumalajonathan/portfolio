@@ -1,4 +1,6 @@
-# Full Stack Developer
+# Jonathan G
+
+# BACKEND DEV ./ MOBILE DEV ./ DATABASE ADMINISTRATOR ./ IT SECURITY
 
 #### Technical Skills: 
 - Flutter - Dart (mobile dev)
