@@ -22,6 +22,14 @@
 - B.S., Computer Science | AMA Computer College of Legazpi (_May 2012_)
 
 ## Work Experience
+**IT Officer I - Database Administrator @ Department of Social Welfare and Development  (_August 2024 - Present_)**
+- Responsible for the design, implementation, maintenance, and performance of the organization's database systems.
+- Create data storage and retrieval systems, and develop database structures
+- Perform daily database management and monitoring, and troubleshoot database issues
+- Ensure the security and integrity of the databases, and implement database recovery procedures and safety protocols
+- Perform data quality assurance, including data dictionary, entity-relation diagrams, and database structures
+- Assist in data management tasks, including backup, recovery, archival, deployment, installation, maintenance, optimization, and data migration
+  
 **Founder of Codes Bicol IT Solutions  (_October 2021 - Present_)**
 - Founder and Owner
 - Project Team Lead
